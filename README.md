@@ -11,5 +11,5 @@ I love Backend Technology. Designing and developing backend API's or Technologie
   - PostgreSQL
   - Docker
 
-🌱 I’m currently learning:
+🌱 <b>I’m currently learning:</b>
   - Javascript
