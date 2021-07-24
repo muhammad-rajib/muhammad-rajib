@@ -1,9 +1,5 @@
 ### Hi, I'm Muhammad Rajib 👋
-
-<!--
-**muhammad-rajib/muhammad-rajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+--------------------------------
 
 ## 🔭 I’m currently working on:
 - Python
@@ -17,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
