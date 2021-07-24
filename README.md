@@ -26,8 +26,8 @@ I love Backend Technology. Designing and developing backend API's or Technologie
   },
   "database": ["PostgreSQL"],
   "tools": [
-    "Docker",
     "Git",
+    "Docker",
     "Kubernetes",
   ]
 }
