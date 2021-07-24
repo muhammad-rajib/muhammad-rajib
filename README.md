@@ -1,8 +1,9 @@
-## *Hi 👋, I'm Muhammad Rajib*
+# *Hi 👋, I'm Muhammad Rajib*
 
-> Software Engineer <br />
+> Software Engineer <br/>
 > Learner, Problem solver
 
+📫 <b>How to reach me:</b><br/>
 [![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadrajib8521/)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rajib-5369921b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibhossain8521@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
@@ -15,5 +16,20 @@ I love Backend Technology. Designing and developing backend API's or Technologie
   - PostgreSQL
   - Docker
 
-🌱 <b>I’m currently learning:</b>
-  - Javascript
+### Technologies I've worked with.:
+
+```json
+{
+  "languages": ["Python", "Javascript", "C/C++"],
+  "frameworks/libraries": {
+    "backend": ["Django"],
+    "frontend": ["Bootstrap"]
+  },
+  "database": ["PostgreSQL"],
+  "tools": [
+    "Docker",
+    "Git",
+    "Kubernetes",
+  ]
+}
+```
