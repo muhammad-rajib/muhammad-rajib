@@ -1,15 +1,15 @@
-### Hi, I'm Muhammad Rajib 👋
---------------------------------
+## *Hi 👋, I'm Muhammad Rajib* 
 
-## 🔭 I’m currently working on:
-- Python
-- Django
-- PostgreSQL
-- Docker
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Software Engineer <br/>
+> Learner, Problem Solver
+
+I love Backend Technology. Designing and developing backend API's or Technologies always awsome for me. Learning and exploring new things are always makes me happy. Also to solve problems are a mandatory part of my life.
+
+🔭 <b>I’m currently working on:</b>
+  - Python
+  - Django
+  - PostgreSQL
+  - Docker
+
+🌱 I’m currently learning:
+  - Javascript
