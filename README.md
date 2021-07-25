@@ -29,6 +29,7 @@ I love Backend Technology. Designing and developing backend API's or Technologie
     "Git",
     "Docker",
     "Kubernetes",
+    "Travis-CI",
   ]
 }
 ```
