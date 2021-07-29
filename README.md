@@ -21,7 +21,7 @@ I love Backend Technology. Designing and developing backend API's or Technologie
 {
   "languages": ["Python", "Javascript", "C/C++"],
   "frameworks/libraries": {
-    "backend": ["Django"],
+    "backend": ["Django", "Django REST framework"],
     "frontend": ["Bootstrap"]
   },
   "database": ["PostgreSQL"],
