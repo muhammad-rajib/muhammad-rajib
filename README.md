@@ -10,10 +10,11 @@
 I love Backend Technology. Designing and developing backend API's or Technologies always awsome for me. Learning and exploring new things are always makes me happy. Also to solve problems are a beautiful part of my life.
 
 🔭 <b>I’m currently working on:</b>
-  - Python
-  - Django
-  - PostgreSQL
-  - Docker
+  - Numpy, Pandas
+  - Matplotlib, Seaborn
+  - SQL, MongoDB
+  - Machine-Learning
+  - Deep-Learning
 
 ### Technologies I've worked with.:
 
