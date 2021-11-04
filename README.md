@@ -7,7 +7,7 @@
 > Learning Data Science <br/>
 > Learner, Problem solver
 
-Found interest on Data Science. Why not Data Science? If you can understand and predict your friends future interests just analyzing his/her daily datas. Learning and exploring new things are always makes me happy. Also to solve problems are a beautiful part of my life.
+Found interest on Data Science. If you can understand and predict your friends future interests just analyzing his/her daily datas then Why not Data Science!!. Learning and exploring new things are always makes me happy. Also to solve problems are a beautiful part of my life.
 
 🔭 <b>I’m currently working on:</b>
   - Numpy, Pandas
