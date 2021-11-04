@@ -12,6 +12,7 @@ Found interest on Data Science. If you can understand and predict your friends f
 🔭 <b>I’m currently working on:</b>
   - Numpy, Pandas
   - Matplotlib, Seaborn
+  - Tableau, PowerBI
   - SQL, MongoDB
   - Machine-Learning
   - Deep-Learning
