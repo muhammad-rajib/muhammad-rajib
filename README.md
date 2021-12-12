@@ -10,6 +10,15 @@
 DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is long and hard to reach or not. But I am really not worried about the obstacles. I want to help the peoples to solve their real time problems just use their data's. Data's are the voices of problems. That's why, playing with data's are always a fantastic job as a data scientist but you have to be very serious about your data. Because a single data can change the way of your problem solution. Do not worry, BE COOL.
 
 🔭 <b>Skills on:</b>
+| Data Processing | Data Visualization |
+| -------------   | ------------- |
+| `Python`        | Content Cell  |
+| `NumPy`         | Content Cell  |
+| `Pandas`        |
+| `Excel`         |
+| `VBA`           |
+
+🔭 <b>Skills on:</b>
 #### Data Processing & Visualization
    - `Excel & VBA`
    - NumPy 
