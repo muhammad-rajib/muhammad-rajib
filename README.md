@@ -11,7 +11,7 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 
 🔭 <b>Skills on:</b>
 #### Data Processing & Visualization
-   > Excel & VBA
+   >> Excel & VBA
    - NumPy 
    - Pandas
    - Matplotlib
