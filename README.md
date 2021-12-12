@@ -13,22 +13,22 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 #### Data Processing & Visualization
    - Excel & VBA
    - NumPy 
-      - Pandas
-        - Matplotlib
-        - Seaborn
-        - Tableau
-        - PowerBI
+   - Pandas
+   - Matplotlib
+   - Seaborn
+   - Tableau
+   - PowerBI
 #### Machine Learning + Deep Learning
-        - TextBlob
-        - SciKit-Lean
+   - TextBlob
+   - SciKit-Lean
 #### Database
-        - SQL & 
-        - MongoDB
+   - SQL & 
+   - MongoDB
 #### Tools
-        - Git, Docker
+   - Git, Docker
 #### Scraping
-        - Python "re" library
-        - Beautiful Soup & Scrapy
+   - Python "re" library
+   - Beautiful Soup & Scrapy
 
 ### Technologies I've worked with.:
 
