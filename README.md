@@ -11,12 +11,12 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 
 🔭 <b>Skills on:</b>
 | Data Processing | Data Visualization |
-| -------------   | ------------- |
-| `Python`        | Content Cell  |
-| `NumPy`         | Content Cell  |
-| `Pandas`        |
-| `Excel`         |
-| `VBA`           |
+|  :-------:      |     :-------: |
+| `Python`        | `Tableau`  |
+| `NumPy`         | `Power BI`  |
+| `Pandas`        | `Matplotlib` |
+| `Excel`         | `Seaboarn`  |
+| `VBA`           
 
 🔭 <b>Skills on:</b>
 #### Data Processing & Visualization
