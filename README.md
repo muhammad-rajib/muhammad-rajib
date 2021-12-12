@@ -18,6 +18,26 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
   - SQL, MongoDB
   - Machine-Learning
   - Deep-Learning
+ 
+ Skills on:
+* Data Processing & Visualization
+        -> Excel & VBA
+        -> NumPy 
+        -> Pandas
+        -> Matplotlib
+        -> Seaborn
+        -> Tableau
+        -> PowerBI
+* Machine Learning + Deep Learning
+        -> TextBlob
+        -> SciKit-Lean
+* Database
+        -> SQL & MongoDB
+* Tools
+        -> Git, Docker
+* Scraping
+        -> Python "re" library
+        -> Beautiful Soup & Scrapy
 
 ### Technologies I've worked with.:
 
