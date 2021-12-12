@@ -19,9 +19,9 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
   - Machine-Learning
   - Deep-Learning
  
-🔭 <b>Skills on:</b>
-Data Processing & Visualization
-\t- Excel & VBA
+🔭 <b>## Skills on:</b>\n
+### Data Processing & Visualization
+ - Excel & VBA
         -> NumPy 
         -> Pandas
         -> Matplotlib
