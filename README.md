@@ -13,8 +13,8 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 | Data Processing | Data Visualization | Database | ML + DL       |  Tools      |
 |  :-------:      |     :-------:      | :---:    | :---:         |  :---:      |
 | `Python`        | `Tableau`          | `SQL`    | `TextBlob`    | `Git`       |
-| `NumPy`         | `Power BI`         | `MongoDB`| `SciKit-Learn`| `Docker`    |
-| `Pandas`        | `Matplotlib`       |          |               | `Travis-CI` |
+| `NumPy-Pandas`         | `Power BI`         | `MongoDB`| `SciKit-Learn`| `Docker`    |
+| `Apache Spark`        | `Matplotlib`       |          |               | `Travis-CI` |
 | `Excel`         | `Seaboarn`         |
 | `VBA`           
 
