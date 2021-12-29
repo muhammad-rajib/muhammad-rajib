@@ -14,9 +14,9 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 |  :-------:       |     :-------:      | :---:    | :---:         |  :---:      |
 | `Python`         | `Tableau`          | `SQL`    | `TextBlob`    | `Git`       |
 | `NumPy`          | `Power BI`         | `MongoDB`| `SciKit-Learn`| `Docker`    |
-| `Pandas`         |
-| `Apache-Spark`   | `Matplotlib`       |          |               | `Travis-CI` |
-| `Excel` & `VBA`  | `Seaboarn`         |       
+| `Pandas`         | `Matplotlib`       |          |               | `Travis-CI` |
+| `Apache-Spark`   | `Seaboarn`         |      
+| `Excel` `VBA`  | 
 
 ### Technologies I've worked with.:
 
