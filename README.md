@@ -16,7 +16,7 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
 | `NumPy`          | `Power BI`         | `MongoDB`| `SciKit-Learn`| `Docker`    |
 | `Pandas`         | `Matplotlib`       |          |               | `Travis-CI` |
 | `Apache-Spark`   | `Seaboarn`         |      
-| `Excel` - `VBA`  | 
+| `Excel` `VBA`  | 
 
 ### Technologies I've worked with.:
 
