@@ -12,28 +12,23 @@
 DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is long and hard to reach or not. But I am really not worried about the obstacles. I want to help the peoples to solve their real time problems just use their data's. Data's are the voices of problems. That's why, playing with data's are always a fantastic job as a data scientist but you have to be very serious about your data. Because a single data can change the way of your problem solution. Do not worry, BE COOL.
 
 🔭 <b>Skills on:</b>
-| Data Processing  | Data Visualization | Database | ML + DL       |  Tools      |
-|  :-------:       |     :-------:      | :---:    | :---:         |  :---:      |
-| `Python`         | `Tableau`          | `SQL`    | `TextBlob`    | `Git`       |
-| `NumPy`          | `Power BI`         | `MongoDB`| `SciKit-Learn`| `Docker`    |
-| `Pandas`         | `Matplotlib`       |          |               | `Travis-CI` |
-| `Apache-Spark`   | `Seaboarn`         |      
-| `Excel` `VBA`  | 
-
-### Technologies I've worked with.:
-
 ```json
 {
-  "languages": ["Python", "Javascript", "C/C++"],
-  "frameworks/libraries": {
-    "backend": ["Django", "Django REST framework"],
-    "frontend": ["HTML", "CSS", "Bootstrap"]
-  },
-  "database": ["SQL", "MySQL", "PostgreSQL", "MongoDB"],
-  "tools": [
-    "Git",
-    "Docker",
-    "Travis-CI",
-  ]
+  "languages": ["Python", "C/C++", "Java", "VBA"],
+  "frameworks/libraries": ["NumPy", "Pandas", "Apache-Spark"],
+  "database": ["MySQL", "PostgreSQL", "MongoDB"],
+  "AWS": [
+    "EC2",
+    "Lambda",
+    "S3",
+    "RDS",
+    "Glue",
+    "EMR",
+    "Kinesis",
+    "Athena",
+    "Redshift"
+  ],
+  "tools": ["Git", "Docker"],
+  "data_visualization": ["Tableau", "PowerBI", "Matplotlib", "Seaborn"]
 }
 ```
