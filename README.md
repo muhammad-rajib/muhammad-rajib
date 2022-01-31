@@ -29,6 +29,7 @@ DATA SCIENCE can help me to reach my GOAL. Goal is simple but may be the path is
     "Redshift"
   ],
   "tools": ["Git", "Docker"],
+  "operating-system": ["Linux", "Windows"],
   "data_visualization": ["Tableau", "PowerBI", "Matplotlib", "Seaborn"]
 }
 ```
