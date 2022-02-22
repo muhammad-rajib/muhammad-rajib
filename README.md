@@ -15,7 +15,7 @@ My goal is to help the peoples to solve their real time problems just use their 
 ```json
 {
   "languages": ["Python", "C/C++", "Java", "VBA"],
-  "frameworks/libraries": ["FastApi", "PySpark", "NumPy", "Pandas"],
+  "frameworks/libraries": ["FastAPI", "PySpark", "NumPy", "Pandas"],
   "database": {
         "SQL": ["PostgreSQL", "MySQL"],
         "NoSQL": ["MongoDB"]
