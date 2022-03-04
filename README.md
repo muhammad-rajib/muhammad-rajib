@@ -9,7 +9,10 @@
 > Software Engineer | Data Engineer <br/>
 > Data Science Enthusiast, Self Learner, Problem solver
 
-My goal is to help the peoples to solve their real time problems just use their data's. Data's are the voices of problems. That's why, playing with data's are always a fantastic job, but you have to be very serious about your data. Because a single data can change the way of your problem solution. Do not worry, BE COOL ...
+I am passionate about designing and developing backend API's, databases, 
+microservices with good software development practices and principles. I 
+am an enthusiastic, self-motivated, reliable, responsible and hard -working 
+person and mature team worker to adapting all challenging situations.
 
 🔭 <b>Skills on:</b>
 ```json
