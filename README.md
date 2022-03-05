@@ -34,7 +34,7 @@ person and mature team worker to adapting all challenging situations.
     "Athena",
     "Redshift"
   ],
-  "tools": ["Git", "Docker"],
+  "tools": ["Git", "Docker", "Ngnix"],
   "operating-system": ["Linux", "Windows"],
   "data_visualization": ["Tableau", "PowerBI", "Matplotlib", "Seaborn"]
 }
