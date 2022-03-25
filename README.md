@@ -17,7 +17,7 @@ person and mature team worker to adapting all challenging situations.
 🔭 <b>Skills on:</b>
 ```json
 {
-  "languages": ["Python", "C/C++", "C#", "Java", "SQL", "Golang"],
+  "languages": ["Python", "Java", "C/C++", "C#", "SQL", "Golang"],
   "frameworks/libraries": ["FastAPI", "Django", "PySpark", "NumPy", "Pandas"],
   "database": {
         "SQL": ["PostgreSQL", "MySQL"],
