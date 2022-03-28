@@ -18,7 +18,7 @@ person and mature team worker to adapting all challenging situations.
 ```json
 {
   "languages": ["Python", "Java", "C/C++", "C#", "SQL", "Golang"],
-  "frameworks/libraries": ["FastAPI", "Django", "PySpark", "NumPy", "Pandas"],
+  "frameworks/libraries": ["FastAPI", "Django", "PySpark", "Sprint Boot", "NumPy", "Pandas"],
   "database": {
         "SQL": ["PostgreSQL", "MySQL"],
         "NoSQL": ["MongoDB"]
