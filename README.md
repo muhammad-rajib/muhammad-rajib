@@ -17,7 +17,7 @@ person and mature team worker to adapting all challenging situations.
 🔭 <b>Skills on:</b>
 ```json
 {
-  "languages": ["Python", "Java", "C/C++", "C#", "SQL"],
+  "languages": ["Python", "JavaScript", "Java", "C/C++", "C#", "SQL"],
   "frameworks/libraries": ["FastAPI", "Django", "PySpark", "Spring Boot", "NumPy", "Pandas"],
   "database": {
         "SQL": ["PostgreSQL", "MySQL"],
@@ -36,6 +36,6 @@ person and mature team worker to adapting all challenging situations.
   ],
   "tools": ["Git", "Docker", "Ngnix"],
   "operating-system": ["Linux", "Windows"],
-  "data_visualization": ["Tableau", "PowerBI", "Matplotlib", "Seaborn"]
+  "data_visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
 ```
