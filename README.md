@@ -18,10 +18,11 @@ person and mature team worker to adapting all challenging situations.
 ```json
 {
   "languages": ["Python", "JavaScript", "Java", "C/C++", "C#", "SQL"],
-  "frameworks/libraries": ["FastAPI", "Django", "PySpark", "Spring Boot", "NumPy", "Pandas"],
+  "frameworks/libraries": ["React", "Django", "FastAPI", "PySpark", "Spring Boot", "NumPy", "Pandas"],
   "database": {
         "SQL": ["PostgreSQL", "MySQL"],
-        "NoSQL": ["MongoDB"]
+        "NoSQL": ["MongoDB"],
+        "Firebase"
   },
   "AWS": [
     "EC2",
