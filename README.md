@@ -27,10 +27,10 @@ person and mature team worker to adapting all challenging situations.
 🔭 <b>Skills on:</b>
 ```json
 {
-  "languages": ["Python", "JavaScript", "Java", "C/C++", "SQL"],
+  "languages": ["Python", "JavaScript", "C/C++", "HTML", "CSS"],
   "frameworks/libraries": ["React", "Django", "FastAPI", "PySpark", "Spring Boot", "SqlAlchemy", "NumPy", "Pandas"],
   "database": {
-        "SQL": ["PostgreSQL", "MySQL"],
+        "SQL": ["MySQL", "PostgreSQL"],
         "NoSQL": ["MongoDB"],
         "Firebase"
   },
@@ -46,7 +46,7 @@ person and mature team worker to adapting all challenging situations.
     "Redshift"
   ],
   "tools": ["Git", "Docker", "Ngnix"],
-  "operating-system": ["Linux", "Windows"],
+  "operating-system": ["Linux", "MacOS", "Windows"],
   "data_visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
 ```
