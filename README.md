@@ -15,10 +15,14 @@ am an enthusiastic, self-motivated, reliable, responsible and hard -working
 person and mature team worker to adapting all challenging situations.
 
 🔭 <b>Currently working on (ERP Software):</b>
-- frontend: HTML, CSS, JS, JQuery
-- backend: Python, Django
-- database: MySQL
-- Tools: Git, Ngnix
+```json
+{
+  "languages": ["Python", "JavaScript", "HTLM", "CSS"],
+  "frameworks/libraries": ["Django", "SqlAlchemy", "JQuery"],
+  "database": ["MySQL", "PostgreSQL"],
+  "tools": ["Git", "Ngnix", "BirtViewer(Reporting Tool)"]
+}
+```
 
 🔭 <b>Skills on:</b>
 ```json
