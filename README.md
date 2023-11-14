@@ -15,8 +15,13 @@ am an enthusiastic, self-motivated, reliable, responsible and hard -working
 person and mature team worker to adapting all challenging situations.
 
 🔭 <b>Currently working on (ERP Software):</b>
-* Python --> Django
-* Go --> Gin
+* Python >> Django
+* Go >> Gin
+* Javascript >> JQuery
+* Mysql | Postgresql
+* Git | Nginx
+
+<!--
 ```json
 {
   "languages": ["Python", "JavaScript", "HTLM", "CSS"],
@@ -25,30 +30,27 @@ person and mature team worker to adapting all challenging situations.
   "tools": ["Git", "Ngnix", "BirtViewer(Reporting Tool)"]
 }
 ```
+-->
 
 🔭 <b>Skills on:</b>
 ```json
 {
-  "languages": ["Python", "JavaScript", "C/C++", "HTML", "CSS"],
-  "frameworks/libraries": ["React", "Django", "FastAPI", "PySpark", "Spring Boot", "SqlAlchemy", "NumPy", "Pandas"],
+  "languages": ["Python", "Golang", "JavaScript", "C/C++", "HTML", "CSS"],
+  "frameworks/libraries": ["Django", "FastAPI", "Gin", "Spring Boot", "SqlAlchemy", "NumPy", "Pandas"],
   "database": {
         "SQL": ["MySQL", "PostgreSQL"],
-        "NoSQL": ["MongoDB"],
-        "Firebase"
+        "NoSQL": ["MongoDB"]
   },
   "AWS": [
     "EC2",
     "Lambda",
     "S3",
-    "RDS",
-    "Glue",
-    "EMR",
     "Kinesis",
     "Athena",
     "Redshift"
   ],
   "tools": ["Git", "Docker", "Ngnix"],
-  "operating-system": ["Linux", "MacOS", "Windows"],
+  "operating-system": ["Linux", "MacOS"],
   "data_visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
 ```
