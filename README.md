@@ -15,6 +15,8 @@ am an enthusiastic, self-motivated, reliable, responsible and hard -working
 person and mature team worker to adapting all challenging situations.
 
 🔭 <b>Currently working on (ERP Software):</b>
+* Python --> Django
+* Go --> Gin
 ```json
 {
   "languages": ["Python", "JavaScript", "HTLM", "CSS"],
