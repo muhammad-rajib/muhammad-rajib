@@ -15,22 +15,14 @@ am an enthusiastic, self-motivated, reliable, responsible and hard -working
 person and mature team worker to adapting all challenging situations.
 
 🔭 <b>Currently working on (ERP Software):</b>
-* Python >> Django
-* Go >> Gin
-* Javascript >> JQuery
-* Mysql | Postgresql
-* Git | Nginx
-
-<!--
 ```json
 {
-  "languages": ["Python", "JavaScript", "HTLM", "CSS"],
-  "frameworks/libraries": ["Django", "SqlAlchemy", "JQuery"],
+  "languages": ["Python", "Golang", "JavaScript"],
+  "frameworks/libraries": ["Django", "Gin", "JQuery", "SqlAlchemy"],
   "database": ["MySQL", "PostgreSQL"],
   "tools": ["Git", "Ngnix", "BirtViewer(Reporting Tool)"]
 }
 ```
--->
 
 🔭 <b>Skills on:</b>
 ```json
