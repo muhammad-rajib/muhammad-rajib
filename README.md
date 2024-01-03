@@ -17,10 +17,10 @@ person and mature team worker to adapting all challenging situations.
 🔭 <b>Currently working on (ERP Software):</b>
 ```json
 {
-  "languages": ["Python", "Golang", "JavaScript"],
-  "frameworks/libraries": ["Django", "Gin", "JQuery", "SqlAlchemy"],
-  "database": ["MySQL", "PostgreSQL"],
-  "tools": ["Git", "Ngnix", "BirtViewer(Reporting Tool)"]
+  "languages": ["Python", "JavaScript", "Golang"],
+  "frameworks/libraries": ["Django", "Fastapi", "JQuery", "SqlAlchemy"],
+  "database": ["MySQL", "PostgreSQL", "Cassandra"],
+  "tools": ["Git", "Ngnix"]
 }
 ```
 
