@@ -33,15 +33,7 @@ person and mature team worker to adapting all challenging situations.
         "SQL": ["MySQL", "PostgreSQL"],
         "NoSQL": ["MongoDB"]
   },
-  "AWS": [
-    "EC2",
-    "Lambda",
-    "S3",
-    "Kinesis",
-    "Athena",
-    "Redshift"
-  ],
-  "tools": ["Git", "Docker", "Ngnix"],
+  "tools": ["AWS", "Git", "Docker", "Ngnix"],
   "operating-system": ["Linux", "MacOS"],
   "data_visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
