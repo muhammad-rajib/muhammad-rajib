@@ -14,7 +14,7 @@ Over 3.5 years of software engineering experience, I have successfully worked on
 🔭 <b>Currently working on (ERP Software):</b>
 ```json
 {
-  "languages": ["Python", "JavaScript",],
+  "languages": ["Python", "JavaScript"],
   "frameworks/libraries": ["React", "Fastapi"],
   "database": ["MySQL", "PostgreSQL", "Cassandra"],
   "tools": ["Git", "Ngnix"]
