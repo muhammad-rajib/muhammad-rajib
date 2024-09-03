@@ -9,16 +9,13 @@
 > Software Engineer <br/>
 > Data Science Enthusiast, Self Learner, Problem solver
 
-I am passionate about designing and developing backend API's, databases, 
-microservices with good software development practices and principles. I 
-am an enthusiastic, self-motivated, reliable, responsible and hard -working 
-person and mature team worker to adapting all challenging situations.
+Over 3.5 years of software engineering experience, I have successfully worked on diverse backend and frontend projects. I excel at collaborating with diverse teams to deliver high-quality software solutions and solve complex problems. Passionate about creating efficient, user-friendly applications and continuously learning new technologies to drive performance and innovation. Let's connect and collaborate on exciting projects!
 
 🔭 <b>Currently working on (ERP Software):</b>
 ```json
 {
-  "languages": ["Python", "JavaScript", "Golang"],
-  "frameworks/libraries": ["Django", "Fastapi", "JQuery", "SqlAlchemy"],
+  "languages": ["Python", "JavaScript",],
+  "frameworks/libraries": ["React", "Fastapi"],
   "database": ["MySQL", "PostgreSQL", "Cassandra"],
   "tools": ["Git", "Ngnix"]
 }
