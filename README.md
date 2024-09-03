@@ -24,8 +24,8 @@ Over 3.5 years of software engineering experience, I have successfully worked on
 🔭 <b>Skills on:</b>
 ```json
 {
-  "languages": ["Python", "Golang", "JavaScript", "C/C++", "HTML", "CSS"],
-  "frameworks/libraries": ["Django", "FastAPI", "Gin", "Spring Boot", "SqlAlchemy", "NumPy", "Pandas"],
+  "languages": ["Python", "JavaScript", "C/C++", "SQL", "HTML", "CSS"],
+  "frameworks/libraries": ["React", "Django", "FastAPI", "PyTest", "SqlAlchemy", "PySpark"],
   "database": {
         "SQL": ["MySQL", "PostgreSQL"],
         "NoSQL": ["MongoDB"]
