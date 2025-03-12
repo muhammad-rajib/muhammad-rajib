@@ -33,7 +33,7 @@ With over **3.5 years of software engineering experience**, I have worked on div
 ```
 
 ## 📌 **Experience:**
-### **Senior Software Engineer | Divine IT Limited | April 2024 - Present**
+### **Senior Software Engineer | Divine IT Limited | April 2024 - Januart 2025**
 - Architected backend APIs for **Document Management System (DMS)**.
 - Led frontend development, ensuring seamless user experience and efficiency.
 - Optimized data tree generation time using DFS-based algorithms.
