@@ -2,7 +2,7 @@
 
 # **Hi there! 👋 I'm Muhammad Rajib**
 
-🚀 **Software Engineer | Data Science Enthusiast | Problem Solver**
+🚀 **Software Engineer**
 
 With over **3.5 years of software engineering experience**, I have worked on diverse backend and frontend projects, collaborating with cross-functional teams to develop high-quality solutions. I thrive on solving complex problems and continuously learning new technologies to drive performance and innovation.
 
