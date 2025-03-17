@@ -11,11 +11,12 @@ I have a strong background in software engineering, having worked on diverse bac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rajib-profile/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibhossain8521@gmail.com?subject=From%20GitHub&body=Hi%20there!%20Let's%20connect.)
 
-## 💼 **Current Work:**
+<!-- ## 💼 **Current Work:**
 - 🔭 Working on **Enterprise ERP Software** at **Divine IT Limited**.
 - 🏗️ Designing and developing scalable backend APIs.
 - 🤝 Leading and mentoring teams to deliver high-quality solutions.
 - 🛠️ Optimizing system performance and data processing efficiency.
+-->
 
 ## 🔧 **Technical Skills:**
 ```json
