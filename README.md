@@ -21,9 +21,9 @@ I have a strong background in software engineering, having worked on diverse bac
 ```json
 {
   "Languages": ["Python", "JavaScript", "C/C++", "SQL", "HTML", "CSS"],
-  "Frameworks & Libraries": ["React", "Django", "FastAPI", "PyTest", "SqlAlchemy", "PySpark"],
+  "Frameworks & Libraries": ["React", "Django", "FastAPI", "TDD (PyTest)", "SqlAlchemy", "PySpark"],
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
-  "Cloud & DevOps": ["AWS", "Docker", "Nginx", "Git"],
+  "Cloud & DevOps": ["AWS", "Docker", "Nginx", "Git", CI/CD(GitHub Actions)],
   "Operating Systems": ["Linux", "MacOS"],
   "Data Visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
