@@ -22,10 +22,7 @@ I have a strong background in software engineering, having worked on diverse bac
 {
   "Languages": ["Python", "JavaScript", "C/C++", "SQL", "HTML", "CSS"],
   "Frameworks & Libraries": ["React", "Django", "FastAPI", "PyTest", "SqlAlchemy", "PySpark"],
-  "Databases": {
-    "SQL": ["MySQL", "PostgreSQL"],
-    "NoSQL": ["MongoDB", "Cassandra"]
-  },
+  "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "Cloud & DevOps": ["AWS", "Docker", "Nginx", "Git"],
   "Operating Systems": ["Linux", "MacOS"],
   "Data Visualization": ["Tableau", "Matplotlib", "Seaborn"]
