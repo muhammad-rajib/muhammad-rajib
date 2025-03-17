@@ -4,7 +4,7 @@
 
 🚀 **Software Engineer**
 
-With over **3.5 years of software engineering experience**, I have worked on diverse backend and frontend projects, collaborating with cross-functional teams to develop high-quality solutions. I thrive on solving complex problems and continuously learning new technologies to drive performance and innovation.
+I have a strong background in software engineering, having worked on diverse backend and frontend projects. Collaborating with cross-functional teams, I focus on developing high-quality solutions, solving complex problems, and continuously learning new technologies to drive performance and innovation.
 
 ### 📢 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadrajib8521/)
