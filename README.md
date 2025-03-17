@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-rajib&&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Rajib Github Stats"/>](https://github.com/muhammad-rajib)
+<!-- <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muhammad-rajib&&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammad Rajib Github Stats"/> -->
 
 # **Hi there! 👋 I'm Muhammad Rajib**
 
@@ -23,7 +23,7 @@ I have a strong background in software engineering, having worked on diverse bac
   "Languages": ["Python", "JavaScript", "C/C++", "SQL", "HTML", "CSS"],
   "Frameworks & Libraries": ["React", "Django", "FastAPI", "TDD (PyTest)", "SqlAlchemy", "PySpark"],
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
-  "Cloud & DevOps": ["AWS", "Docker", "Nginx", "Git", CI/CD(GitHub Actions)],
+  "Cloud & DevOps": ["AWS", "Docker", "Nginx", "Git", "CI/CD(GitHub Actions)"],
   "Operating Systems": ["Linux", "MacOS"],
   "Data Visualization": ["Tableau", "Matplotlib", "Seaborn"]
 }
