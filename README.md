@@ -53,9 +53,6 @@ A lightweight Python-based web framework inspired by **Django & FastAPI**.
 - Developed features like **request handling, middleware integration, and ORM**.
 - Enhanced understanding of **template engines, routing, and custom responses**.
 
-## 🎓 **Education:**
-- **BSc in Computer Science & Engineering** - Southeast University (2020 - 2024)
-- **Diploma in Computer Technology** - Dhaka Polytechnic Institute (2015 - 2019)
 
 ## 📜 **Certifications:**
 - ✅ Python Basic, Python Intermediate, and C++ Basic - **HackerRank**
