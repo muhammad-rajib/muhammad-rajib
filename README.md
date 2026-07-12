@@ -16,7 +16,7 @@ I am a Software Engineer with experience in building scalable backend systems, c
 
 ### **Senior Software Engineer | W3 Engineers Ltd**  
 📍 Dhaka, Bangladesh | 🗓️ Jun 2025 – Present  
-- Migrating legacy systems into **cloud-friendly ETL pipelines** using Python and AWS (S3, Lambda, Glue, EMR).  
+- Migrating legacy systems into **cloud-friendly ETL pipelines** using Python, Spark and AWS.  
 - Designing scalable and cost-efficient **data processing architectures**.  
 - Collaborating with Data Engineering teams to optimize **large-scale data workflows**.  
 
